@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{71FD4FBB-0AAA-4A96-9281-164730C9DAA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Final Project Client/Form1.Designer.cs">
+    <Files>
+      <File FileName="Final Project Client/Program.cs" Line="19" Column="42" />
+      <File FileName="Final Project Client/Form1.cs" Line="19" Column="29" />
+      <File FileName="Final Project Client/Form1.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Final_220Project_220Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
